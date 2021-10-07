@@ -8,4 +8,15 @@ Steps to follwo:
 6. Reach the goal to a certain tolerance and stop.
 
 
-Finish a rudimentary form of this in 1 day itself.
+Finish a rudimentary form of this in 1 day itself
+
+
+General INFO:
+
+1. LaserScan range - -135 degrees to 135 degrees
+2. Number of range readings - 720 readings
+
+
+Progress:
+
+1. Implemented LaserScanner that outputs positive message if an object lies between -20 and 20 degrees of the pointing angle.
