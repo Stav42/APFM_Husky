@@ -1,0 +1,11 @@
+Steps to follwo:
+
+1. LaserScanner on Husky
+2. Place objects, input data. 
+3. Building a cost function using the data derived. 
+4. Final and intial position known. Escape obstacles
+5. Build an optimizer to optimize the cost function and obtain the new pointing angle
+6. Reach the goal to a certain tolerance and stop.
+
+
+Finish a rudimentary form of this in 1 day itself.
